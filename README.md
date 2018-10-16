@@ -360,4 +360,7 @@ Think of it like making butter cookies. You have a cookie cutter, which in our c
 
 The picture doesn't do anything to the cookie itself, but merely captures certain aspects of it. It's a butter cookie, it looks fresh and delicious, and it has little sprinkles on it. Those aspects are captured in the picture, but the cookie and the picture are still two different things. Ceci n'est pas une butter cookie! After you eat the cookie, or in our case after you delete the Ruby object, the database will not change at all until the record is deleted, and vice versa.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-orm-mapping-to-tables/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-orm-mapping-to-tables/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG ORM: Mapping Ruby Classes to Database Tables</p>
